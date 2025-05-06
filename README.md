@@ -1,3 +1,3 @@
 # Firechat
 
-Messenger that uses Google Firebase to exchange text data
+This messenger uses Google Firebase to exchange text data
